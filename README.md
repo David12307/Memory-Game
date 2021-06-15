@@ -1,3 +1,3 @@
 # Memory Game
 
-A simple memory game made with JavaScript
+A simple memory game made with JavaScript.
